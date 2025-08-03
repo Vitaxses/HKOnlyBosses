@@ -1,0 +1,3 @@
+# OnlyBosses
+
+Disables regular enimies
