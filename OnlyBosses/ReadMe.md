@@ -1,3 +1,3 @@
 # OnlyBosses
 
-Disables regular enimies
+Disables regular enemies
